@@ -1,5 +1,5 @@
 ## squoosh-lint-staged
-> designed for lint-staged usage with sensible defaults
+> designed for lint-staged usage with sensible defaults，but CLI calls are also supported.
 
 ## Installation
 ```
