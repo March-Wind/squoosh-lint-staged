@@ -12,13 +12,17 @@
   "author": "",
   "license": "MIT",
   "description": "",
-  "devDependencies": {},
-  "dependencies": {
-    "shelljs": "^0.8.4",
-    "@squoosh/cli": "^0.6.3"
+  "devDependencies": {
+    "argv": "^0.0.2",
+    "yargs": "^16.2.0"
   },
-  "peerDependencies":{
-    "shelljs": "^0.8.4",
-    "@squoosh/cli": "^0.6.3"
+  "dependencies": {
+    "@squoosh/cli": "^0.6.3",
+    "glob": "^7.1.6",
+    "shelljs": "^0.8.4"
+  },
+  "peerDependencies": {
+    "@squoosh/cli": "^0.6.3",
+    "shelljs": "^0.8.4"
   }
 }
