@@ -13,8 +13,7 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "argv": "^0.0.2",
-    "yargs": "^16.2.0"
+    "argv": "^0.0.2"
   },
   "dependencies": {
     "@squoosh/cli": "^0.6.3",
